@@ -1,6 +1,6 @@
 # Cuckoo-File-Detonation-API
 
-The script will detonate files in Cuckoo and wait for the analysis result.
+The script will detonate files in Cuckoo Sandbox (https://cuckoosandbox.org/) and wait for the analysis result.
 
 Edit the IP and the file path in line 39 and 40.
 
